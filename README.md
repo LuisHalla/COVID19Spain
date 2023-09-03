@@ -1,4 +1,4 @@
-# COVID-19 Spain
+## Data Analysis on COVID-19 in Spain
 
 This project contains the folders:
  - data: data used for analysis, raw and clean csv.
